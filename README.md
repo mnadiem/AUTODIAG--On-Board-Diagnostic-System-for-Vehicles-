@@ -61,10 +61,6 @@ AUTODIAG is an academic embedded-systems and IoT project exploring remote vehicl
 
 The documented data path starts with a Python script streaming sample sensor data through a **PL2303 USB-to-UART bridge** to the **STM32F103C8T6**. The STM32 processes the data and communicates with the **ESP8266** over SPI. The ESP8266 then publishes information over Wi-Fi using MQTT.
 
-<div align="center">
-  <img src="https://mermaid.ink/img/pako:eNqNkE1PwzAMhv9KlBMn7Q8Q4k1cOHAwMZg0m7Rpa1q7pE1t1k5q1b_vJpA0m0t2vOe9fJxwQqk0gJx0qk7J2kYQ1o6b7s9qQ6V8w2q0d1aQ8m5q8Q5o3m0v2sQ0p4xk7b2m8Q1j2h7YQ6n9j7JQ4v4G2b1jQ6s4cQ" alt="AUTODIAG data flow from Python sensor stream to remote monitoring" width="100%">
-</div>
-
 ```mermaid
 flowchart LR
     A["Python sensor-data stream"] -->|"USB / UART · PL2303"| B["STM32F103C8T6"]
