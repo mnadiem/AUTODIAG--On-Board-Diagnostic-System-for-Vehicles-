@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Protocol-MQTT-660066?style=for-the-badge" alt="MQTT">
 </p>
 
-[Project Presentation](https://drive.google.com/file/d/12X-7KyyK5NAQu-tFUbDE7he6bxcZAbdy/view?usp=sharing) · [Published Research Paper](https://doi.org/10.1007/978-3-031-81308-5_19)
+[Project Presentation](https://docs.google.com/presentation/d/1SIb7W_dUc1PMzALeOhW6Sa1fbWuimoGy/edit?usp=sharing&ouid=112637858674835221310&rtpof=true&sd=true) · [Published Research Paper](https://doi.org/10.1007/978-3-031-81308-5_19)
 
 </div>
 
@@ -126,7 +126,7 @@ flowchart LR
 
 ## 📚 Project Materials
 
-- 🎥 [Project presentation](https://drive.google.com/file/d/12X-7KyyK5NAQu-tFUbDE7he6bxcZAbdy/view?usp=sharing)
+- 🎥 [Project presentation](https://docs.google.com/presentation/d/1SIb7W_dUc1PMzALeOhW6Sa1fbWuimoGy/edit?usp=sharing&ouid=112637858674835221310&rtpof=true&sd=true)
 - 📄 [Published research paper — Springer AISI 2025](https://doi.org/10.1007/978-3-031-81308-5_19)
 
 ---
