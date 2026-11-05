@@ -126,7 +126,7 @@ flowchart LR
 
 ## 📚 Project Materials
 
-- 🎥 [Project presentation](https://docs.google.com/presentation/d/1SIb7W_dUc1PMzALeOhW6Sa1fbWuimoGy/edit?usp=sharing&ouid=112637858674835221310&rtpof=true&sd=true)
+- 🎥 [Project presentation](https://1drv.ms/p/c/ea00e2c491c8b601/IQCL3IgP1dVjQ7nl0vMDTUSfAZjjIGUiZlL_SdSZLlMOMTQ?e=KeO7GY)
 - 📄 [Published research paper — Springer AISI 2025](https://doi.org/10.1007/978-3-031-81308-5_19)
 
 ---
